@@ -1,7 +1,7 @@
 # Hi I'm 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Ammr%20Ahmed%20Mustafa;Front%20End%20Developer%20&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Zyad%20Khalaf%20Mohamed;Bank%20Manager%20&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&size=22"></a>
 </p> 
 
 
@@ -12,7 +12,7 @@
 
 <br />
 
-Hi, I'm [Ammar Ahmed](https://ammar2852021.github.io/mero/) A Passionate Self-Taught Web Developer And Freelance Software Engineer From Egypt My Passion For Software Lies In Dreaming Of Ideas And Making Them Come True Through Elegant Interfaces I Am Also Enthusiastic And An Open Source Supervisor. I Learned A Lot From The Open Source Community And I Love How Collaboration And Knowledge Sharing Happened Through Open Source .
+Hi, I'm [Zyad Khalaf](https://ammar2852021.github.io/mer) A Passionate Self-Taught Web Developer And Freelance Software Engineer From Egypt My Passion For Software Lies In Dreaming Of Ideas And Making Them Come True Through Elegant Interfaces I Am Also Enthusiastic And An Open Source Supervisor. I Learned A Lot From The Open Source Community And I Love How Collaboration And Knowledge Sharing Happened Through Open Source .
 
 
 <!--   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
